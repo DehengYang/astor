@@ -53,7 +53,7 @@ areas:
 - Round-trip back to Python via Armin Ronacher's codegen.py module:
 
   - Modified AST doesn't need linenumbers, ctx, etc. or otherwise be directly
-    compileable
+    compilable
   - Easy to read generated code as, well, code
 
 - Dump pretty-printing of AST
